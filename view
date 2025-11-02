@@ -1,0 +1,14 @@
+<!doctype html>
+<html>
+  <head><meta charset="utf-8"><title>Exercise Tracker</title></head>
+  <body>
+    <h1>Exercise Tracker API</h1>
+    <p>Use the following endpoints:</p>
+    <ul>
+      <li>POST /api/users</li>
+      <li>GET /api/users</li>
+      <li>POST /api/users/:_id/exercises</li>
+      <li>GET /api/users/:_id/logs</li>
+    </ul>
+  </body>
+</html>
